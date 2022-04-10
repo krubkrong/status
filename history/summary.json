@@ -4,19 +4,19 @@
     "url": "https://krubkrong.com",
     "icon": "https://favicons.githubusercontent.com/krubkrong.com",
     "slug": "krubkrong-s-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1154,
-    "timeDay": 887,
-    "timeWeek": 1035,
-    "timeMonth": 1154,
-    "timeYear": 1154,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1139,
+    "timeDay": 819,
+    "timeWeek": 999,
+    "timeMonth": 1139,
+    "timeYear": 1139,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 16
     }
   },
   {
